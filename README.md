@@ -1,4 +1,4 @@
-# Yeray10r.github.io
+# yeray10r.github.io
 **Autor:** Yeray Díez Ruiz
 **Cicle formatiu:** ASIX
 # Descripcio
